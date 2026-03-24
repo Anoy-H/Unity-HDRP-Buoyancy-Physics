@@ -7,6 +7,7 @@ Thank you for downloading the package. To make your game objects float, you can 
 
 # Important: Tested Unity Editor version 6000+, older versions may not work. Also, you must enable the Scripting option from the water settings.
 
+**At first, download the .unityasset file from the releases section.**
 
 **Method 1: Single Mesh Buoyancy**
 
