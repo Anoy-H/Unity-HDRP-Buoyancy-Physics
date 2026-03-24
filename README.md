@@ -7,6 +7,7 @@ Thank you for downloading the package. To make your game objects float, you can 
 
 # Important: Tested Unity Editor version 6000+, older versions may not work. Also, you must enable the Scripting option from the water settings.
 
+
 Method 1: Single Mesh Buoyancy
 
 (1) Attach a Rigidbody component to your main mesh object and configure the mass as required.
@@ -15,8 +16,8 @@ Method 1: Single Mesh Buoyancy
 
 (3) Drag the object’s own Rigidbody into the corresponding slot on the script in the Inspector.
 
-Method 2: Multi Floating Point Buoyancy
 
+Method 2: Multi Floating Point Buoyancy
 
 (1) Add a Rigidbody to your main parent object and configure the mass as required.
 
