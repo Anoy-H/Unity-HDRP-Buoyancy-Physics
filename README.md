@@ -1,7 +1,7 @@
 # Unity-HDRP-Buoyancy-Physics
 A simple buoyancy solution for Unity's High Definition Render Pipeline (HDRP). This package allows you to simulate floating objects if you use the default HDRP water.
 
-########################### Setup Guide ##########################################
+########################### Setup Guide ###############################################
 
 Thank you for downloading the package. To make your game objects float, you can choose between two primary setup methods depending on your requirements.
 
