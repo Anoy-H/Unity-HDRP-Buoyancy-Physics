@@ -31,7 +31,7 @@ Thank you for downloading the package. To make your game objects float, you can 
 
 # Support
 
-You’re all set. If you run into any issues or have questions, feel free to reach out.**
+You’re all set. If you run into any issues or have questions, feel free to reach out.
 
 **Anoy Howlader**
 
