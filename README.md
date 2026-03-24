@@ -33,5 +33,7 @@ Support
 You’re all set. If you run into any issues or have questions, feel free to reach out.
 
 Anoy Howlader
+
 Contact E-mail: anoyh12@gmail.com
+
 To support me through your little contributions: https://www.patreon.com/cw/anoyh12/membership
