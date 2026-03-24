@@ -27,10 +27,14 @@ Thank you for downloading the package. To make your game objects float, you can 
 
 (4) For every child object's HDRPBuoyancy script, drag the Parent's Rigidbody into the script’s Rigidbody slot in the Inspector.
 
-# You can deactivate the Mesh Renderers of every child floating point objects to keep them invisible.
+**You can deactivate the Mesh Renderers of every child floating point objects to keep them invisible.**
 
-**Support
+# Support
+
 You’re all set. If you run into any issues or have questions, feel free to reach out.**
+
 **Anoy Howlader**
+
 **Contact E-mail: anoyh12@gmail.com**
+
 **To support me through your little contributions: https://www.patreon.com/cw/anoyh12/membership**
