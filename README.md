@@ -5,7 +5,7 @@ A simple buoyancy solution for Unity's High Definition Render Pipeline (HDRP). T
 https://github.com/user-attachments/assets/4a70c1b1-a906-4691-a78b-f2d0bc29d538
 
 
-########################### Setup Guide ###############################################
+########################### Setup Guide ###########################
 
 Thank you for downloading the package. To make your game objects float, you can choose between two primary setup methods depending on your requirements.
 
